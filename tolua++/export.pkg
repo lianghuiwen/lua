@@ -1,0 +1,4 @@
+$#include "lua_interface.h"
+
+void SetNumber(void* obj, int num);
+int GetNumber(void* obj);
